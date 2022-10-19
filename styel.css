@@ -1,0 +1,57 @@
+body{
+    background-color: lightcyan;
+
+}
+
+/* Heading number1 */
+
+.head{
+    text-align: center;
+    color: darkorange;
+}
+
+/* hEADING NUMBER 2 */
+.headsmall{
+    text-align: center;
+    color: darkorange;
+}
+
+
+/* LINK LINE */
+.link{
+    color: darkorange;
+    
+}
+    
+    
+/* MAIN DIV */
+.main{
+    margin: 10px;
+}
+
+
+/* UNODER LIST */
+.ola{
+    color: darkorange;
+}
+
+
+/* oderlist */
+
+.oderlist{
+    color: darkorange;
+}
+
+
+/* img3 text colorchange */
+.img3{
+    color: darkorange;
+}
+
+/* feildset1 */
+.field_set{
+   
+    border: 5px dotted orange;
+    color: darkorange;
+  }
+
